@@ -102,3 +102,25 @@ public:
         return ans;
     }
 }
+
+
+//approch 4 : eassy pessy
+//o(n) time and space
+
+class Solution {
+    void solve(TreeNode* root, int level, vector<int> &v){
+        if(root == NULL) return;
+        if(level == v.size()) v.push_back(root->val);
+        
+        solve(root->right, level+1, v);
+        solve(root->left, level+1, v);
+    }
+   
+   public:
+       vector<int> rightSideView(TreeNode* root) {
+           vector<int> ans;
+           solve(root, 0, ans);
+   
+           return ans;
+       }
+};
