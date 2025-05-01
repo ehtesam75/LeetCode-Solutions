@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/path-sum/description/
 
 //approch 1 : 
-//o(n) time and o(1) space
+//o(n) time and o(h) space
 
 class Solution {
     private:

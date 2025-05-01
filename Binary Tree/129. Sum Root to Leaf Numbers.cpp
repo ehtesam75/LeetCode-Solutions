@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/sum-root-to-leaf-numbers/description/
 
 //approch 1:
-//o(N) time and o(1) space
+//o(N) time and o(h) space
 
 class Solution {
     void solve(TreeNode* root, string path, int &total_sum){
