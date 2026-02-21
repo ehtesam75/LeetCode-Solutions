@@ -9,3 +9,15 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 - Comments are included in some solutions to improve understanding.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+<!---LeetCode Topics End-->
