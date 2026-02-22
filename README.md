@@ -16,6 +16,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -45,5 +46,6 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
