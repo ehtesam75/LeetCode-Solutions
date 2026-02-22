@@ -47,10 +47,15 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
