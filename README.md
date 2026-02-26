@@ -21,6 +21,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0169-majority-element](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [2058-concatenation-of-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -33,6 +34,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0169-majority-element](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,16 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
