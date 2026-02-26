@@ -1,21 +1,21 @@
 class MyHashSet {
     static const int N = 1e6 + 9;
-    bool check[N] = {0};
+    bitset<N> check;
 public:
     MyHashSet() {
         
     }
     
     void add(int key) {
-        check[key] = 1;
+        check.set(key);
     }
     
     void remove(int key) {
-        check[key] = 0;
+        check.reset(key);
     }
     
     bool contains(int key) {
-        return check[key];
+        return check.test(key);
     }
 };
 
