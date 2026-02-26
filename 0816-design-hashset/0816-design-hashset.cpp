@@ -1,21 +1,42 @@
 class MyHashSet {
-    static const int N = 1e6 + 9;
-    bitset<N> check;
+    static const int N = 1e6 + 9; 
+    static const int bracket_size = 769;
+    vector<int> store[bracket_size];
+    int find_bracket(int n){
+        return n % bracket_size;
+    }
+    // bitset<N> check;
 public:
     MyHashSet() {
         
     }
     
     void add(int key) {
-        check.set(key);
-    }
+        // check.set(key);
+
+        int idx =  find_bracket(key);
+        auto it = find(store[idx].begin(), store[idx].end(), key);
+        if(it == store[idx].end()){
+            store[idx].push_back(key);
+        }
+    }   
     
     void remove(int key) {
-        check.reset(key);
+        // check.reset(key);
+
+        int idx =  find_bracket(key);
+        auto it = find(store[idx].begin(), store[idx].end(), key);
+        if(it != store[idx].end()){
+            store[idx].erase(it);
+        }
     }
     
     bool contains(int key) {
-        return check.test(key);
+        // return check.test(key);
+
+        int idx =  find_bracket(key);
+        auto it = find(store[idx].begin(), store[idx].end(), key);
+        return it != store[idx].end();
     }
 };
 
