@@ -1,10 +1,13 @@
 class MyHashSet {
+    //approch 2 
     static const int N = 1e6 + 9; 
     static const int bracket_size = 769;
     vector<int> store[bracket_size];
     int find_bracket(int n){
         return n % bracket_size;
     }
+
+    //approch 1 : using bitset/bool
     // bitset<N> check;
 public:
     MyHashSet() {
