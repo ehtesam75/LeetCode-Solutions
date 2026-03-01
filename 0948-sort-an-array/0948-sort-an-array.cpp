@@ -1,47 +1,43 @@
 class Solution {
-    vector<int> merge(vector<int> &left, vector<int> &right){
-        int len1 = left.size();
-        int len2 = right.size();
-        int a1 = 0, a2 = 0;
-        int k = 0;
-        vector<int> temp(len1 + len2);
+    void merge(vector<int> &nums, int l, int mid, int r, vector<int> &temp){
+        int i = l, j = mid + 1, k = l;
 
-        while(a1 < len1 and a2 < len2){
-            if(left[a1] <= right[a2]){
-                temp[k++] = left[a1++];
+        while(i <= mid and j <= r){
+            if(nums[i] <= nums[j]){
+                temp[k++] = nums[i++];
             }
             else{
-                temp[k++] = right[a2++];
+                temp[k++] = nums[j++];
             }
         }
 
-        while(a1 < len1){
-            temp[k++] = left[a1++];
+        while(i <= mid){
+            temp[k++] = nums[i++];
         }
 
-        while(a2 < len2){
-            temp[k++] = right[a2++];
+        while(j <= r){
+            temp[k++] = nums[j++];
         }
 
-        return temp;
-
-        // for(int i = l, j = 0; i <= r; i++){
-        //     nums[i] = temp[j++];
-        // }
-
+        for(int i = l; i <= r; i++){
+            nums[i] = temp[i];
+        }
     }
 
-    vector<int> solve(vector<int> &nums, int l, int r){
-        if(l == r) return {nums[l]};
+    void solve(vector<int> &nums, int l, int r, vector<int> &temp){
+        if(l >= r) return;
 
         int mid = (l + r) / 2;
-        vector<int> left = solve(nums, l, mid);
-        vector<int> right = solve(nums, mid + 1, r);
-        return merge(left, right);
+        solve(nums, l, mid, temp);
+        solve(nums, mid + 1, r, temp);
+        merge(nums, l, mid, r, temp);
     }
+
 public:
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size();
-        return solve(nums, 0, n-1);
+        vector<int> temp (n);
+        solve(nums, 0, n-1, temp);
+        return nums;
     }
 };
