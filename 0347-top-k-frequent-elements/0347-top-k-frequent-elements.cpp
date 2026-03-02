@@ -1,19 +1,21 @@
 static const int N = 2e4 + 7;
-vector<int> freq(N, 0);
-vector<pair<int, int>> v(N);
 
 class Solution {
 
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        fill(freq.begin(), freq.end(), 0);
+        vector<int> freq(N, 0);
+        vector<pair<int, int>> v;
+        
         for(int x : nums){
             if(x >= 0) freq[x]++;
             else freq[1e4 + abs(x)]++;
         }
 
         for(int i = 0; i < N; i++){
-            v[i] = {freq[i], i};
+            if(freq[i] > 0){
+                v.push_back({freq[i], i});
+            }
         }
 
         vector<int> ans;
