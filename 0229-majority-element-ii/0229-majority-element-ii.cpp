@@ -27,17 +27,17 @@ public:
 
 
         //approch 2 : o(n) time & o(n) space
-        unordered_map<int, int> mp;
-        for(auto x : nums){
-            mp[x]++;
-        }
+        // unordered_map<int, int> mp;
+        // for(auto x : nums){
+        //     mp[x]++;
+        // }
 
-        for(auto [u, v] : mp){
-            if(v > (n/3)){
-                ans.push_back(u);
-            }
-        }
-        return ans;
+        // for(auto [u, v] : mp){
+        //     if(v > (n/3)){
+        //         ans.push_back(u);
+        //     }
+        // }
+        // return ans;
 
         
         //approch 3 : o(n) time and o(1) space
@@ -45,15 +45,17 @@ public:
         int counter1 = 0, counter2 = 0;
 
         for(int i = 0; i < nums.size(); i++){
-            if(counter1 == 0){
+            if(nums[i] == candidate1) counter1++;
+            else if(nums[i] == candidate2) counter2++;
+            else if(counter1 == 0){
                 candidate1 = nums[i];
+                counter1 = 1;
             }
             else if(counter2 == 0){
                 candidate2 = nums[i];
+                counter2 = 1;
             }
-            else if(nums[i] == candidate1) counter1++;
-            else if(nums[i] == candidate2) counter2++;
-            else if(nums[i] != candidate1 and nums[i]  != candidate2){
+            else{
                 counter1--; counter2--;
             }
         }
@@ -64,8 +66,8 @@ public:
             else if(nums[i] == candidate2) can2_cnt++;
         }
 
-        if(can1_cnt > (n/3)) ans.push_back(can1_cnt);
-        if(can2_cnt > (n/3)) ans.push_back(can2_cnt);
+        if(can1_cnt > (n/3)) ans.push_back(candidate1);
+        if(can2_cnt > (n/3)) ans.push_back(candidate2);
         return ans;
     }
 };
