@@ -64,6 +64,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -138,6 +139,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Quickselect
 |  |
 | ------- |
