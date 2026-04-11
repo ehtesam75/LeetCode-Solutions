@@ -15,6 +15,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
@@ -142,6 +143,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -170,5 +172,6 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
