@@ -2,19 +2,12 @@ class Solution {
   bool isUgly(int n) {
     if(n <= 0) return false;
 
-    while(n % 2 == 0){
-        n = n ~/ 2;
-    }
-
-    for(int i = 3; i <= 5; i += 2){
-        while(n % i == 0){
-            n = n ~/ i;
+    for(int f in [2, 3, 5]){
+        while(n % f == 0){
+            n = n ~/ f;
         }
     }
 
-    if(n > 1){
-        return false;
-    }
-    return true;
+    return n == 1;
   }
 }
