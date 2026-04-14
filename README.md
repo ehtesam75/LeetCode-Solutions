@@ -90,6 +90,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0263-ugly-number) |
 ## Divide and Conquer
 |  |
 | ------- |
