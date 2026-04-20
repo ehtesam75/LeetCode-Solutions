@@ -76,6 +76,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -194,6 +195,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
