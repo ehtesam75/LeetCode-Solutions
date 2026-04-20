@@ -34,6 +34,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0239-sliding-window-maximum](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -57,6 +58,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0242-valid-anagram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -202,10 +204,12 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
