@@ -124,6 +124,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -197,6 +198,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | ------- |
 | [0020-valid-parentheses](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
