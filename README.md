@@ -24,6 +24,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0075-sort-colors](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0263-ugly-number) |
 ## Divide and Conquer
 |  |
@@ -198,6 +200,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | ------- |
 | [0020-valid-parentheses](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
