@@ -41,6 +41,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
+| [0883-car-fleet](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -77,6 +78,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0229-majority-element-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 ## String
 |  |
@@ -211,6 +213,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +221,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0883-car-fleet) |
 ## Sliding Window
 |  |
 | ------- |
