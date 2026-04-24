@@ -23,6 +23,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +112,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0033-search-in-rotated-sorted-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
