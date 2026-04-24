@@ -43,6 +43,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0883-car-fleet](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -107,6 +108,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
