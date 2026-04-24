@@ -18,6 +18,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0011-container-with-most-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -107,6 +108,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
