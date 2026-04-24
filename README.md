@@ -39,6 +39,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
@@ -68,6 +69,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0424-longest-repeating-character-replacement](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -196,6 +198,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
