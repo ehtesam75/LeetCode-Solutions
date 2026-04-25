@@ -76,6 +76,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0567-permutation-in-string](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
+| [1023-time-based-key-value-store](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0242-valid-anagram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0374-guess-number-higher-or-lower](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
@@ -153,6 +156,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0304-range-sum-query-2d-immutable](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
+| [1023-time-based-key-value-store](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Hash Function
 |  |
 | ------- |
