@@ -147,6 +147,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 ## Design
@@ -261,4 +262,8 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
