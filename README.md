@@ -147,6 +147,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0816-design-hashset) |
@@ -266,6 +267,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
