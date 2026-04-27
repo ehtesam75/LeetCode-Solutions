@@ -24,17 +24,7 @@ class Solution {
         curr = curr.next!;
     }
 
-    while(l1 != null){
-        curr.next = ListNode(l1.val);
-        curr = curr.next!;
-        l1 = l1.next;
-    }
-
-    while(l2 != null){
-        curr.next = ListNode(l2.val);
-        curr = curr.next!;
-        l2 = l2.next;
-    }
+    curr.next = l1 ?? l2;
     return dummy.next;
   }
 }
