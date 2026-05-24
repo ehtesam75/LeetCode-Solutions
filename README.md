@@ -22,6 +22,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 | [0035-search-insert-position](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -131,6 +132,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0263-ugly-number) |
