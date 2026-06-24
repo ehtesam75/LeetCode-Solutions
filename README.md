@@ -133,6 +133,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -152,6 +153,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -282,6 +284,7 @@ This repository contains my solutions to a variety of LeetCode problems, organiz
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ehtesam75/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
