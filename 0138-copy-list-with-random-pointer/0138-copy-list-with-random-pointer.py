@@ -7,27 +7,33 @@ class Node:
         self.random = random
 """
 
+
 class Solution:
-    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        mp = {}
+    def copyRandomList(self, head: "Optional[Node]") -> "Optional[Node]":
+        if not head:
+            return None
+
         curr = head
 
         while curr:
             new_node = Node(curr.val)
-            mp[curr] = new_node
-            curr = curr.next
+            new_node.next = curr.next
+            curr.next = new_node
+            curr = new_node.next
 
         curr = head
-        if curr:
-            copy_head = mp[curr]
-        else:
-            return curr #head null
-
         while curr:
-            if curr.next:
-                mp[curr].next = mp[curr.next]
             if curr.random:
-                mp[curr].random = mp[curr.random]
-            curr = curr.next
-        
+                curr.next.random = curr.random.next
+            curr = curr.next.next
+
+        org = head
+        copy_head = head.next
+
+        while org:
+            copy = org.next
+            org.next = copy.next
+            if copy.next:
+                copy.next = copy.next.next
+            org = org.next
         return copy_head
