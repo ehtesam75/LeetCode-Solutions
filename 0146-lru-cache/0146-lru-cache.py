@@ -39,6 +39,7 @@ class LRUCache:
     def put(self, key: int, value: int) -> None:
         if key in self.mp:
             self.remove(self.mp[key])
+            del self.mp[key]
 
         node = Node(value)
         node.key = key
